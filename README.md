@@ -1,7 +1,7 @@
 Rarecryptocoin integration/staging tree
 ================================
 
-http://www.rarecryptocoin.org
+http://www.rarecryptocoin.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Rarecryptocoin Developers
@@ -10,16 +10,16 @@ What is Rarecryptocoin?
 ----------------
 
 Rarecryptocoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+ - 5 minute block targets
+ - subsidy halves in 500k blocks (~4 years)
+ - ~5882353 total coins
 
-The rest is the same as Bitcoin.
- - 50 coins per block
+Just a little more rare than Bitcoin.
+ - 5 coins per block
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Rarecryptocoin client sofware, see http://www.rarecryptocoin.org.
+the Rarecryptocoin client sofware, see http://www.rarecryptocoin.com.
 
 License
 -------
