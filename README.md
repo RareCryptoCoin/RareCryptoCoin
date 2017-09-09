@@ -4,7 +4,7 @@ Rarecryptocoin integration/staging tree
 http://www.rarecryptocoin.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Rarecryptocoin Developers
+Copyright (c) 2017-To Forever Developers
 
 What is Rarecryptocoin?
 ----------------
