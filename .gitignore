@@ -1,0 +1,34 @@
+src/*.exe
+src/rarecryptocoin
+src/rarecryptocoind
+src/test_rarecryptocoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.rarecryptocoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+rarecryptocoin-qt
+Rarecryptocoin-Qt.app
+
+# Unit-tests
+Makefile.test
+rarecryptocoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
